@@ -1,5 +1,4 @@
 /* Task 1 */
-
 var heading=document.getElementById('heading');
 console.log(heading.innerText);
 heading.innerText="Changed it";
